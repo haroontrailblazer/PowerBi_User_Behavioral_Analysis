@@ -5,7 +5,7 @@ Welcome to the **User Social Media Analysis** repository! This project leverages
 <br>
 
 
-<video src="https://github.com/user-attachments/assets/4e9cbe04-1b9c-46b3-9f52-886cea898ea9" controls width="335"></video>
+<video src="https://github.com/user-attachments/assets/4e9cbe04-1b9c-46b3-9f52-886cea898ea9" controls width="350"></video>
 
 ---
 
