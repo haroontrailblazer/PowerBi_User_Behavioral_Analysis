@@ -12,7 +12,7 @@ This Power BI dashboard analyzes cross-platform social media engagement to help 
 
 ## Project Highlights
 
-  + **Interactive Dashboards**: Explore intuitive Power BI dashboards to uncover social media trends. <br>
+  * **Interactive Dashboards**: Explore intuitive Power BI dashboards to uncover social media trends. <br>
   • **Key Metrics**: Analyze user behaviors, engagement rates, and growth patterns. <br>
   • **Custom Visualizations**: Professionally designed visuals tailored for social media insights. <br>
   • **Data-Driven Decision Making**: Turn raw social media data into actionable insights. <br>
