@@ -1,6 +1,6 @@
-# Social Media User Engagement Analysis Dashboard (Power BI)
+# <i> Social Media User Engagement Analysis Dashboard (Power BI)
 
-This Power BI dashboard analyzes cross-platform social media engagement to help brands understand user behavior, content performance, and audience metrics. The project includes data preprocessing, KPI creation using DAX formulas, and the design of an interactive dashboard.
+This Power BI dashboard analyzes cross-platform social media engagement to help brands understand user behavior, content performance, and audience metrics. The project includes data preprocessing, KPI creation using DAX formulas, and the design of an interactive dashboard. </i>
 
 <br>
 <br>
@@ -31,10 +31,10 @@ This Power BI dashboard analyzes cross-platform social media engagement to help 
 ---
 
 ## 1. Shares by Platform
-### **Description**
+### <i> **Description** </i>
   * This bar chart represents the number of shares on YouTube, TikTok, Instagram, and Twitter.
 
-### **Analysis**
+### <i> **Analysis** </i>
   * YouTube leads with 1324 shares, making it the most frequently shared platform.
   
     <br>
@@ -53,10 +53,10 @@ This Power BI dashboard analyzes cross-platform social media engagement to help 
 <br>
 
 ## 2. Likes by Platform
-### **Description**
+### <i> **Description** </i>
   * The chart showcases the number of likes received on the same four platforms.
 
-### **Analysis**
+### <i> **Analysis** </i>
   * YouTube again takes the lead with 1324 likes, mirroring its performance in shares.
   
     <br>
@@ -71,10 +71,10 @@ This Power BI dashboard analyzes cross-platform social media engagement to help 
 <br>
 
 ## 3. Views by Platform
-### **Description**
+### <i> **Description** </i>
   * This chart compares the number of views received on YouTube, TikTok, Instagram, and Twitter.
 
-### **Analysis**
+### <i> **Analysis** </i>
   * YouTube tops the chart with 1324 views, affirming its position as a widely consumed platform.
   
     <br>
@@ -89,10 +89,10 @@ This Power BI dashboard analyzes cross-platform social media engagement to help 
 <br>
 
 ## 4. Comments by Platform
-### **Description**
+### <i> **Description** </i>
   * This chart measures the number of comments across the four platforms.
 
-### **Analysis**
+### <i> **Analysis** </i>
   * YouTube leads once more with 1324 comments, indicating high audience interaction.
   
    <br>
@@ -107,10 +107,10 @@ This Power BI dashboard analyzes cross-platform social media engagement to help 
 <br>
 
 ## 5. Engagement Level on Content Type over Multiple Platforms
-### **Description**
+### <i> **Description** </i>
   * This bar chart examines how various content types (Live Stream, Post, Reel, Shorts, Tweet, Video) perform in terms of engagement across YouTube, TikTok, Instagram, and Twitter.
 
-### **Analysis**
+### <i> **Analysis** </i>
   * Engagement levels are relatively similar across all platforms and content types, ranging between 0.17K to 0.23K.
     
     <br>
@@ -125,10 +125,10 @@ This Power BI dashboard analyzes cross-platform social media engagement to help 
 <br>
 
 ## 6. Views by Region
-### **Description**
+### <i> **Description** </i>
   * This pie chart reveals the percentage of views from various regions.
 
-### **Analysis**
+### <i> **Analysis** </i>
   * Germany has the highest percentage of views at 13.54%, closely followed by Japan (13.16%) and Australia (12.94%).
   
     <br>
