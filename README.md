@@ -5,6 +5,42 @@ This Power BI dashboard analyzes cross-platform social media engagement to help 
 
 ---
 
+<br>
+
+<div align="center">
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg) 
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-blue?style=flat&logo=powerbi)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat&logo=powerbi&logoColor=black)
+
+
+</div>
+
+<div align="center">
+
+### Designed and Analyzed by a Power BI Data Analyst
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/8b171aa9-2d34-4fb5-9f1e-c813e999228b" width="250"/>
+
+<br>
+<br>
+
+[![Credly Badge](https://img.shields.io/badge/View-Certificates-orange?)](https://www.credly.com/users/haroon-k-m)
+
+
+
+**Skills**  
+
+Microsoft Power BI · Data Modeling · Dashboards · Data Analysis · Data Storytelling · Business Intelligence (BI) · Statistical Data Analysis
+
+</div>
+
+<br>
+
+---
+
 <video src="https://github.com/user-attachments/assets/4e9cbe04-1b9c-46b3-9f52-886cea898ea9" controls width="350"></video>
 
 <br>
