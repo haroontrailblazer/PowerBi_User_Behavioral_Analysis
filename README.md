@@ -4,8 +4,6 @@
 This Power BI dashboard analyzes cross-platform social media engagement to help brands understand user behavior, content performance, and audience metrics. The project includes data preprocessing, KPI creation using DAX formulas, and the design of an interactive dashboard.
 
 <br>
-<br>
-
 
 <video src="https://github.com/user-attachments/assets/4e9cbe04-1b9c-46b3-9f52-886cea898ea9" controls width="350"></video>
 
