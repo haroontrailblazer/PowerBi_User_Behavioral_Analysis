@@ -1,5 +1,6 @@
 # <i> Social Media User Engagement Analysis Dashboard </i>
-![1000166608](https://github.com/user-attachments/assets/a1e2a50c-1c07-4708-a469-5cfda534c612)
+
+https://github.com/user-attachments/assets/344618a7-82ca-493e-af72-9d4cc6a21fe1
 
 This Power BI dashboard analyzes cross-platform social media engagement to help brands understand user behavior, content performance, and audience metrics. The project includes data preprocessing, KPI creation using DAX formulas, and the design of an interactive dashboard.
 
